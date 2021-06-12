@@ -1,0 +1,14 @@
+body{
+	background: url("background.jpg") no-repeat center fixed;
+	background-size: cover; 
+	zoom : 1.5;
+}
+
+input{
+	width : 40px;
+}
+
+.title{
+	font-weight : bold;
+}
+
